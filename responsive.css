@@ -68,6 +68,10 @@
   footer .pro-links i {
     text-align: center;
   }
+  footer input {
+    width: 100%;
+    margin-bottom: 20px;
+  }
 
   /* About Container Section */
 
