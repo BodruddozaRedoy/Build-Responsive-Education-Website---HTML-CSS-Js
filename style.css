@@ -32,6 +32,7 @@ nav{
     position: fixed;
     width: 100vw;
     background-color: #fff;
+    /* backdrop-filter: blur(4.5px); */
     display: flex;
     /* flex-direction: row; */
     justify-content: space-between;
