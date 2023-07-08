@@ -499,12 +499,15 @@ footer .copyright p{
 
 #about-container .about-img{
     width: 60%;
+    padding-right: 60px;
+}
 
+#about-container .about-img img{
+    width: 100%;
 }
 
 #about-container .about-text{
     width: 40%;
-    padding: 60px;
 }
 
 #about-container .about-text h2{
@@ -514,4 +517,42 @@ footer .copyright p{
 #about-container .about-text p{
     color: #686f7a;
     font-weight: 300;
+}
+
+#about-container .about-text .about-fe{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 30px;
+}
+#about-container .about-text .about-fe img{
+    width: 50px;
+    background-size: cover;
+    background-position: center;
+    margin-right: 20px;
+}
+
+#about-container .about-text .about-fe .fe-text{
+    width: 90%;
+
+}
+
+#about-container .about-text .about-fe .fe-text h5{
+    font-size: 16px;
+    color: #29303B;
+}
+
+#trust{
+    text-align-last: center;
+    padding: 8vw;
+}
+#trust .trust-img {
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#trust .trust-img img{
+    width: 90px;
+    height: auto;
 }
