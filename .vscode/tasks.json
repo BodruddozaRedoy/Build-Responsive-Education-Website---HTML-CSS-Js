@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "Live Preview",
+			"workspacePath": "e:\\Web Design\\Project Website\\Build Responsive Education Website - HTML, CSS, Js",
+			"problemMatcher": [],
+			"label": "Live Preview: Run Server"
+		}
+	]
+}
