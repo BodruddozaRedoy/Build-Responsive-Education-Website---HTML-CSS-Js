@@ -564,7 +564,7 @@ footer .copyright p{
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
-    padding: 8vw;
+    padding: 6vw;
 }
 
 #blog-container .blogs{
@@ -606,4 +606,18 @@ footer .copyright p{
     color: #757373;
     font-weight: 500;
     line-height: 45px;
+}
+
+
+#blog-container .blog-post{
+    width: 80%;
+    margin: 0 auto;
+}
+#blog-container .blog-post img{
+    width: 100%;
+    height: 50vh;
+}
+#blog-container .blog-post p{
+    text-align: justify;
+    padding-bottom: 60px !important;
 }
