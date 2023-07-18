@@ -621,3 +621,31 @@ footer .copyright p{
     text-align: justify;
     padding-bottom: 60px !important;
 }
+
+/* Course section */
+
+#course-inner{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 8vw;
+}
+#course-inner .overview{
+    width: 70%;
+}
+#course-inner .overview img{
+    width: 100%;
+    height: 60vh;
+    object-fit: cover;
+    border-radius: 12px;
+    margin-bottom: 20px;
+}
+#course-inner .overview .course-head{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+#course-inner .overview .course-head .c-name{
+    width: 70%;
+}
+
