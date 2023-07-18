@@ -419,7 +419,7 @@ footer .subscribe button{
     /* padding: 13px 35px; */
     width: 150px;
     height: 40px;
-    /* background-color: #fff; */
+    background-color: #fabd14;
     border-radius: 5px;
     font-weight: 600;
     margin-left: 10px;
@@ -429,7 +429,7 @@ footer .subscribe button{
 
 footer button{
     color: #fff;
-    background-color: rgb(146, 144, 36);
+    /* background-color: rgb(146, 144, 36); */
 }
 footer button:hover{
     color: #fff;
@@ -459,7 +459,7 @@ footer .pro-links i{
 }
 footer .pro-links i:hover{
     color: #fff;
-    background-color: rgb(146, 144, 36);
+    background-color: #fabd14;
     padding: 10px 13px;
     border: 1px solid rgb(21, 21, 100);
     cursor: pointer;
