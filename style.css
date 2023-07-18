@@ -455,6 +455,7 @@ footer .pro-links i{
     cursor: pointer;
     transition: 0.3s ease;
     background-color: #5f7185;
+    color: #000;
 }
 footer .pro-links i:hover{
     color: #fff;
