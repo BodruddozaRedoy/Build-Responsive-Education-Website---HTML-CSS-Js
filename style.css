@@ -631,6 +631,18 @@ footer .copyright p{
     align-items: flex-start;
     padding: 8vw;
 }
+#course-inner h3{
+    padding: 35px 0 25px 0;
+    color: #29303B;
+}
+#course-inner p{
+    color: #64626e;
+}
+#course-inner hr{
+    height: 1px;
+    background-color: rgba(236, 226, 229, 0.5);
+    margin-top: 40px;
+}
 #course-inner .overview{
     width: 70%;
 }
@@ -649,4 +661,49 @@ footer .copyright p{
 #course-inner .overview .course-head .c-name{
     width: 70%;
 }
+#course-inner .overview .course-head .c-name h2{
+    color: #29303B;
+}
+#course-inner .overview .course-head .c-name .stars{
+    margin: 6px 0;
+}
+#course-inner .overview .course-head .c-name .stars i{
+    color: #FDC93B;
+    font-size: 0.9rem;
+}
+#course-inner .overview .course-head .c-name p{
+    font-size: 15px;
+}
+#course-inner .overview .course-head span{
+    padding: 16px 22px;
+    border-radius: 5px;
+    color: #5838fc;
+    font-size: 24px;
+    font-weight: 700;
+    background-color: rgba(88, 56, 252, 0.1);
+}
+#course-inner .learn p{
+    font-size: 15px;
+    padding-bottom: 15px;
+
+}
+#course-inner .learn p i{
+    color: #654ce4;
+    font-weight: 700;
+    margin-right: 20px;
+}
+#course-inner .tutor{
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+
+}
+#course-inner .tutor img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+
 
